@@ -3,3 +3,4 @@
 . filter=lfs diff=lfs merge=lfs -text
 windows-amd64/java/lib/* filter=lfs diff=lfs merge=lfs -text
 windows-amd64/lib/modules filter=lfs diff=lfs merge=lfs -text
+windows-amd64/lib/* filter=lfs diff=lfs merge=lfs -text
