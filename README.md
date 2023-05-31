@@ -10,9 +10,8 @@
 * Processing IDE or related
 
 **Starting the game**
-1. Navigate to any of the .pde files found within the `main/` directory
-2. Build the project through your preferred processing IDE
-3. Run the project
+1. Navigate to windows-amd64
+2. Run the main.exe executable
 
 ## Documentation
 This project has been documented into multiple parts that have been listed below for ease of access.
