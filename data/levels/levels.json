@@ -1,0 +1,110 @@
+[{
+  "rewardMultiplier": 1.0,
+  "baseReward": 1000,
+  "ammo": 10,
+  "primaryRGB": [237, 209, 139],
+  "secondaryRGB": [165, 133, 145],
+  "hudRGB": [255, 255, 255],
+  "backgroundRGB": [0, 0, 0],
+  "continuousWaves": true,
+  "waves": [
+    ["BASICMISSILE", 3, 3],
+    ["BASICMISSILE", 2, 2],
+    ["BASICMISSILE", 1, 1]
+  ]
+},
+{
+  "rewardMultiplier": 1.1,
+  "baseReward": 1050,
+  "ammo": 10,
+  "primaryRGB": [112, 181, 123],
+  "secondaryRGB": [101, 75, 105],
+  "hudRGB": [173, 121, 181],
+  "backgroundRGB": [0, 0, 0],
+  "continuousWaves": true,
+  "waves": [
+    ["BASICMISSILE", 4, 3.5],
+    ["FASTMISSILE", 2, 0],
+    ["BASICMISSILE", 2, 3]
+  ]
+},
+{
+  "rewardMultiplier": 1.2,
+  "baseReward": 1100,
+  "ammo": 18,
+  "primaryRGB": [119, 178, 182],
+  "secondaryRGB": [105, 81, 78],
+  "hudRGB": [181, 133, 127],
+  "backgroundRGB": [0, 0, 0],
+  "continuousWaves": true,
+  "waves": [
+    ["BASICMISSILE", 6, 3.5],
+    ["SMARTMISSILE", 1, 2],
+    ["FASTMISSILE", 2, 3],
+    ["SMARTMISSILE", 2, 4],
+    ["BASICMISSILE", 3, 4]
+  ]
+},
+{
+  "rewardMultiplier": 1.3,
+  "baseReward": 1150,
+  "ammo": 15,
+  "primaryRGB": [123, 123, 182],
+  "secondaryRGB": [105, 96, 82],
+  "hudRGB": [181, 162, 132],
+  "backgroundRGB": [0, 0, 0],
+  "continuousWaves": true,
+  "waves": [
+    ["DUMMYMISSILE", 2, 2],
+    ["SMARTMISSILE", 3, 4],
+    ["FASTMISSILE", 1, 1],
+    ["BASICMISSILE", 1, 1],
+    ["DUMMYMISSILE", 3, 2],
+    ["SMARTMISSILE", 1, 3]
+  ]
+},
+{
+  "rewardMultiplier": 1.3,
+  "baseReward": 1150,
+  "ammo": 18,
+  "primaryRGB": [182, 132, 124],
+  "secondaryRGB": [82, 105, 82],
+  "hudRGB": [134, 181, 132],
+  "backgroundRGB": [0, 0, 0],
+  "continuousWaves": true,
+  "waves": [
+    ["BASICMISSILE", 4, 4],
+    ["FASTMISSILE", 2, 4],
+    ["DUMMYMISSILE", 2, 2],
+    ["SMARTMISSILE", 2, 2],
+    ["BASICMISSILE", 3, 3],
+    ["BASICMISSILE", 3, 3],
+    ["FASTMISSILE", 3, 2]
+  ]
+},
+{
+  "rewardMultiplier": 1.5,
+  "baseReward": 1250,
+  "ammo": 25,
+  "primaryRGB": [23, 41, 41],
+  "secondaryRGB": [255, 83, 81],
+  "hudRGB": [255, 97, 94],
+  "backgroundRGB": [0, 0, 0],
+  "continuousWaves": true,
+  "waves": [
+    ["FASTMISSILE", 1, 1],
+    ["BASICMISSILE", 2, 2],
+    ["FASTMISSILE", 1, 0],
+    ["SMARTMISSILE", 3, 2],
+    ["FASTMISSILE", 2, 1],
+    ["DUMMYMISSILE", 3, 3],
+    ["FASTMISSILE", 1, 3],
+    ["SMARTMISSILE", 2, 2],
+    ["FASTMISSILE", 5, 3],
+    ["SMARTMISSILE", 2, 2],
+    ["DUMMYMISSILE", 3, 3],
+    ["BASICMISSILE", 2, 2],
+    ["FASTMISSILE", 5, 3]
+  ]
+}
+]
